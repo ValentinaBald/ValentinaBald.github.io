@@ -1,5 +1,5 @@
 >Titre du cours de **Technologies de l’information** de l’*Université de Genève*
->Thèmes du cours:
+<p>Thèmes du cours:</p>
 
 * Valoriser les résultats
 
