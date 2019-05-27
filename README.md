@@ -1,8 +1,10 @@
->Titre du cours de **Technologies de l’information** de l’*Université de Genève*
-<p>Thèmes du cours:</p>
+>Titre du Master en **Traitement informatique multilingue** de l’*Université de Genève*
+<p>Thèmes du master:</p>
 
-* Valoriser les résultats
+* Technologies de la traduction
 
-    * What you see is what you get
+    * Traduction automatique
 
-    * What you see is what you mean
+    * Terminologie, etc.
+
+> Le traducteur sera en mésure d'utiliser les technologies...
